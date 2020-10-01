@@ -1,3 +1,4 @@
+#LYRIC FINDER[APP]
 A Simple React App that allows you to search for your favorite lyrics.
 
 ## How to use
